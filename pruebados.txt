@@ -1,0 +1,6 @@
+total 8
+drwx------ 19 alexander alexander 4096 dic 18 13:15 ..
+-rw-rw-r--  1 alexander alexander   11 dic 18 14:13 prueba.txt
+drwxrwxr-x  8 alexander alexander  166 dic 18 14:14 .git
+-rw-rw-r--  1 alexander alexander    0 dic 18 14:14 prueba2.txt
+drwxrwxr-x  3 alexander alexander   55 dic 18 14:14 .
